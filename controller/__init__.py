@@ -1,0 +1,3 @@
+from controller.player_controller import PlayerController
+from controller.team_controller import TeamController
+from controller.championship_controller import ChampionshipController
